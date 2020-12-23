@@ -1,5 +1,7 @@
 # Data Modeling with Postgres
 
+![Image](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38715/1608747501/Song_ERD.png)
+
 ## **Overview**
 In this project, we apply Data Modeling with Postgres and build an ETL pipeline using Python. A startup, Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. They are currently collecting data in json format and the analytics team is particularly interested in understanding what songs users are listening to.
 
