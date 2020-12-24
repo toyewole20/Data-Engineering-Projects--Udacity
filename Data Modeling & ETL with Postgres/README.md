@@ -1,5 +1,5 @@
 # Data Modeling with Postgres
-## Star Schema ### (showing the fact and dimension tables)
+## Star Schema (showing the fact and dimension tables)
 ![Image](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38715/1608747501/Song_ERD.png)
 
 ## **Overview**
